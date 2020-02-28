@@ -16,6 +16,11 @@ function App() {
               <IntroComponent/>
             </div>
           </div>
+          <div className="section">
+            <div className="section-container">
+              <IntroComponent/>
+            </div>
+          </div>
     </div>
   );
 }
